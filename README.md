@@ -1,6 +1,6 @@
 # rs_Utils
 
-Voile le Core Utils de DEV par Lsland developpeur, dedans vous y retrouverez :
+Voile le Core Utils de DEV par RS_NEXI, dedans vous y retrouverez :
 
 - /id
 - Désactivation des roulades
